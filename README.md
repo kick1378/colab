@@ -1,3 +1,1 @@
 # moscow
-
-test text 
